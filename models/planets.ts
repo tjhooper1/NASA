@@ -51,5 +51,3 @@ planets = await loadPlanetData();
 export function getAllPlanets() {
   return planets;
 }
-
-console.log(planets.length);
